@@ -1,4 +1,4 @@
-class ImageNekos {
+export class ImageNekos {
   public target: string;
   private possible: string[];
 

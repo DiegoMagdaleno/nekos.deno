@@ -1,4 +1,4 @@
-class MiscInteractions{
+export class MiscInteractions{
     private apiURL: string = 'https://nekos.life/api/v2'
 
     async owoify(text: string){
